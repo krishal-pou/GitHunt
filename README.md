@@ -10,6 +10,10 @@ GitHunt is a 🌐 web-based application designed to provide a comprehensive over
 - 🔗 **Social Media Links**: Extracts and displays social media links mentioned in the user's bio (if available).
 - 📱 **Dynamic Interface**: Built with responsive design for seamless usage across devices.
 
+## 🔗 Live Demo
+
+Experience GitHunt live here: [GitHunt Live](https://git-hunt-krish.vercel.app/) 🌟
+
 ## 🛠️ Installation
 
 Follow these steps to run GitHunt locally:
