@@ -273,3 +273,32 @@ main {
 .profileInfo a:hover{  
   text-decoration: underline;
 }
+
+/* Mobile-first */
+@media (max-width: 600px) {
+  .container {
+    display: block;
+    width: 100%;
+  }
+  .profile-card {
+    margin: 10px auto;
+    width: 90%;
+  }
+  .profile-image {
+    width: 100%;
+    max-width: 150px;
+    border-radius: 50%;
+  }
+  
+}
+
+/* For larger screens */
+@media (min-width: 601px) {
+  .container {
+    display: flex;
+    justify-content: space-between;
+  }
+  .profile-card {
+    width: 45%;
+  }
+}
